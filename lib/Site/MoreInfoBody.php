@@ -41,7 +41,7 @@ class MoreInfoBody extends Body{
 		
 		<tr>
 		
-			<td class=\"centeredcell\"><img src=\"./getpicture.php?equip=".$equip->id."\"</td>
+			<td class=\"centeredcell\"><img src=\"./getImage.php?equipId=".$equip->id."\"</td>
 			<td class=\"topaligncell\">".$equip->description."</td>
 				
 		</tr>
